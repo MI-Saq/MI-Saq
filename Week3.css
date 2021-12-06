@@ -1,0 +1,14 @@
+body{
+    background-image: url('Background.jpg');
+    background-size: cover;
+    height: 100%;
+}
+img{
+    float: right;/*none | right | left*/
+}
+h2{
+    background-color: rgba(200, 255, 0, 0.822);
+}
+#i1{
+    float: left;/*none | right | left*/
+}
